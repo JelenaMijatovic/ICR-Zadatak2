@@ -1,0 +1,44 @@
+
+header {
+    font-family: 'Viga';
+}
+
+#mynavbar {
+    font-family: 'Palanquin';
+}
+
+#intro {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Nobile';
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    color:white;
+}
+
+p, li {
+    font-family: 'Roboto';
+    list-style: none;
+}
+
+#card1 p {
+    font-family: 'Palanquin';
+}
+
+h3, h4 {
+    font-family: 'Palanquin Dark';
+    text-align: left;
+}
+
+h5, h6 {
+    font-family: 'Palanquin';
+}
+
+#domen {
+    text-align: center;
+}
+
